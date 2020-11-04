@@ -1,0 +1,27 @@
+{
+  "name": "@autorest/dummy",
+  "version": "1.0.0",
+  "description": "The Dummy extension for classic generators in AutoRest.",
+  "scripts": {
+    "autorest": "autorest",
+    "start": "python dummy.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/autorest.modelerfour"
+  },
+  "readme": "./readme.md",
+  "keywords": [
+    "autorest",
+    "dummy"
+  ],
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azure/autorest.modelerfour/issues"
+  },
+  "homepage": "https://github.com/Azure/autorest.modelerfour/blob/master/modelerfour/readme.md",
+  "devDependencies": {
+    "autorest": "^3.0.0"
+  }
+}
